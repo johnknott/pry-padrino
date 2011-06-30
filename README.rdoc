@@ -1,6 +1,17 @@
 = pry-padrino
 
-Description goes here.
+Very simple bit of code that ensures 'padrino console' uses pry instead of IRB.
+
+== USAGE:
+
+1)
+
+In your Gemfile:
+require 'pry-padrino'
+
+2)
+
+bundle install
 
 == Contributing to pry-padrino
  
