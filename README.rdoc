@@ -1,6 +1,7 @@
 = pry-padrino
 
-Very simple bit of code that ensures 'padrino console' uses pry instead of IRB.
+Very(!) simple bit of code that ensures 'padrino console' uses pry instead of IRB.
+It's probably better / more efficient to bypass this gem and include the code in lib/pry-padrino.rb in your boot.rb directly.
 
 == USAGE:
 
